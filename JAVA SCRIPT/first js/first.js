@@ -5,7 +5,7 @@ console.log("Vikram Yadav");
 Unlike HTML and CSS , it is case sensitive and follow variable rules like in C , CPP,JAVA etc.
 */
 name="Vikram Yadav";
-age =20;
+age =19;
 console.log("name");     /*console.log me " " eske andr jo rhta h whi print ho jata h */
 console.log(age);
 
