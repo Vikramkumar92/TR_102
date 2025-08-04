@@ -1,4 +1,4 @@
-//ARITHMETIC OPERATOR
+//ARITHMETIC OPERATOR :
 
 let a=5;
 let b=2;
