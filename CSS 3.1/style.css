@@ -7,7 +7,7 @@ fixed - positioned relative to browser
 
 */
 div{
-    height: 100px;
+    height: 100px;     /*this is normal comment*/
     width: 100px;
     background-color: aqua;
     border: 2px solid black;
