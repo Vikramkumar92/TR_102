@@ -5,7 +5,7 @@ flexbox-direction - column;
 flexbox-direction - column reverse;  (element arrange from down to up) 
 */
 /* body{
-    text-align: center;
+    text-align:center;
 }
 div{
     height: 100px;
